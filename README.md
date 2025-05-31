@@ -126,7 +126,7 @@ The system evaluates models using:
 ```
 project/
 ├── app1.py              # Interactive Dash dashboard
-├── main.py          # Model comparison script
+├── main.py              # Model comparison script
 ├── AAPL.csv             # Stock data (required)
 └── README.md            # This file
 ```
@@ -158,7 +158,7 @@ project/
 3. **Training Time**: Model comparison script may take several minutes to complete
 4. **Authentication**: Change default credentials before deployment
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Add more technical indicators (RSI, MACD, Bollinger Bands)
 - Implement ensemble methods combining multiple models
